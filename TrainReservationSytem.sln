@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrainReservationSytem", "TrainReservationSytem\TrainReservationSytem.vcxproj", "{1059635A-3B59-4F5A-BBFC-E592C18A249E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1059635A-3B59-4F5A-BBFC-E592C18A249E}.Debug|x64.ActiveCfg = Debug|x64
+		{1059635A-3B59-4F5A-BBFC-E592C18A249E}.Debug|x64.Build.0 = Debug|x64
+		{1059635A-3B59-4F5A-BBFC-E592C18A249E}.Debug|x86.ActiveCfg = Debug|Win32
+		{1059635A-3B59-4F5A-BBFC-E592C18A249E}.Debug|x86.Build.0 = Debug|Win32
+		{1059635A-3B59-4F5A-BBFC-E592C18A249E}.Release|x64.ActiveCfg = Release|x64
+		{1059635A-3B59-4F5A-BBFC-E592C18A249E}.Release|x64.Build.0 = Release|x64
+		{1059635A-3B59-4F5A-BBFC-E592C18A249E}.Release|x86.ActiveCfg = Release|Win32
+		{1059635A-3B59-4F5A-BBFC-E592C18A249E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C466CE70-8750-405F-B240-88811EB9743F}
+	EndGlobalSection
+EndGlobal
